@@ -52,6 +52,7 @@
 
 ## 03.Python的基础语法
 > 以下语法只针对python3，python2运行可能会报错
+视频见右，密码老规矩哈：[Python基础语法](https://v.youku.com/v_show/id_XMzY2MjQ0MzkyNA==.html?spm=a2h3j.8428770.3416059.1)
 
 - ### 重启代码空间需要从头执行
 > 使用Anaconda需要特别注意，不管是优达的workspace还是本地环境，只要重新打开，就需要从头运行  
