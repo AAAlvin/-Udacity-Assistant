@@ -9,3 +9,6 @@
 
 ### 资料列表：
 - [python入门](https://github.com/AAAlvin/-Udacity-Assistant/blob/master/python%E5%85%A5%E9%97%A8.md)
+- [纯小白需要看的问题](https://github.com/AAAlvin/-Udacity-Assistant/blob/master/files/纯小白需要看的问题.pdf)
+- [入门班级问题汇总](https://github.com/AAAlvin/-Udacity-Assistant/blob/master/files/%E5%85%A5%E9%97%A8%E7%8F%AD%E7%BA%A7%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.pdf)
+- [项目问题1提问回答汇总](https://github.com/AAAlvin/-Udacity-Assistant/blob/master/files/%E9%A1%B9%E7%9B%AE%E9%97%AE%E9%A2%981%E6%8F%90%E9%97%AE%E5%9B%9E%E7%AD%94%E6%B1%87%E6%80%BB.pdf)
