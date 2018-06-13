@@ -6,3 +6,6 @@
 - 本git会链接到相关的助教资料以及备课
 - 相关视频链接会在优酷上传，密码会在群中分享
 - 后面想到什么会继续补充
+
+### 资料列表：
+- [python入门](https://github.com/AAAlvin/-Udacity-Assistant/blob/master/python%E5%85%A5%E9%97%A8.md)
