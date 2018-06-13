@@ -51,7 +51,7 @@
 <font color=#708090	 >**注意：**以上只是项目中遇到的最简单的Markdown语言，如果想了解更多，请参考[官网](http://www.markdown.cn/)  </font>
 
 ## 03.Python的基础语法
-> 以下语法只针对python3，python2运行可能会报错
+> 以下语法只针对python3，python2运行可能会报错  
 视频见右，密码老规矩哈：[Python基础语法](https://v.youku.com/v_show/id_XMzY2MjQ0MzkyNA==.html?spm=a2h3j.8428770.3416059.1)
 
 - ### 重启代码空间需要从头执行
