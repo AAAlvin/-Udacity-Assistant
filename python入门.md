@@ -6,7 +6,7 @@
 - Mac上安装Anaconda
 
 >Python [官方版本](https://www.python.org/)
-- 只有python标准库，使用第三方库的是欧需要使用pip或者conda在线安装，非常麻烦
+- 只有python标准库，使用第三方库的是需要使用pip或者conda在线安装，非常麻烦
 - 编程效率较低，无自动提示，无法同时显示代码和运行结果  
 
 >数据分析集成版本 [Anaconda](https://www.anaconda.com/download/)
@@ -14,7 +14,6 @@
 - 多种编程环境可选，python2/3自由切换
 - 可在[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)下载
 
-<font color=#DC143C	 >**备注：**安装Anaconda步骤会在视频中演示</font>
 
 ## 02. Markdown的基本语法
 > 编写项目的文字部分需要用到Markdown这种标记语言  
