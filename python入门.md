@@ -4,6 +4,7 @@
 ## 01.安装python（选做）
 - win上安装Anaconda
 - Mac上安装Anaconda
+- 视频见右，密码老规矩哈：[Anaconda下载](https://v.youku.com/v_show/id_XMzY2MjQzMTQ2MA==.html?spm=a2h3j.8428770.3416059.1) 
 
 >Python [官方版本](https://www.python.org/)
 - 只有python标准库，使用第三方库的是需要使用pip或者conda在线安装，非常麻烦
@@ -17,7 +18,8 @@
 
 ## 02. Markdown的基本语法
 > 编写项目的文字部分需要用到Markdown这种标记语言  
-**注意：** Markdown使用#、+、*等符号来标记， 符号后面必须跟上 至少1个 空格才有效！</u>
+注意： Markdown使用#、+、*等符号来标记， 符号后面必须跟上 至少1个 空格才有效！</u>
+- 视频见右，密码老规矩哈：[工作区和Markdown](https://v.youku.com/v_show/id_XMzY2MjUzOTU4NA==.html?spm=a2h3j.8428770.3416059.1) 
 
 <font color=#DC143C	 > **备注：**本次只讲解项目中遇到的最简单的Markdown语言</font>
 
