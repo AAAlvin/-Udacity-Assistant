@@ -50,7 +50,7 @@
 > 文本结束后添加两个空格  
 换行  
 
-<font color=#708090	 >**注意：**以上只是项目中遇到的最简单的Markdown语言，如果想了解更多，请参考[官网](http://www.markdown.cn/)  </font>
+<font color=#708090	 >注意：以上只是项目中遇到的最简单的Markdown语言，如果想了解更多，请参考[官网](http://www.markdown.cn/)  </font>
 
 ## 03.Python的基础语法
 > 以下语法只针对python3，python2运行可能会报错  
