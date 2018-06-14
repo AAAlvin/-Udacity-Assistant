@@ -21,7 +21,7 @@
 注意： Markdown使用#、+、*等符号来标记， 符号后面必须跟上 至少1个 空格才有效！</u>
 - 视频见右，密码老规矩哈：[工作区和Markdown](https://v.youku.com/v_show/id_XMzY2MjUzOTU4NA==.html?spm=a2h3j.8428770.3416059.1) 
 
-<font color=#DC143C	 > **备注：**本次只讲解项目中遇到的最简单的Markdown语言</font>
+<font color=#DC143C	 > 备注：本次只讲解项目中遇到的最简单的Markdown语言</font>
 
 - ### 标题：用#标记
 
